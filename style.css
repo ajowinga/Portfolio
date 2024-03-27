@@ -1,0 +1,22 @@
+#navigation li{
+    list-style: none;
+}
+#navigation {
+    display: flex;
+}
+#nav li{
+    display: inline-block;
+    padding-left:;
+}
+
+.imgback{
+        width: 400px;
+        height: 500px;
+        float: right;
+      }
+
+#image-container{
+
+}
+
+#
